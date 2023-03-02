@@ -33,7 +33,7 @@ Which country had the highest and lowest points?
 
 
 ## Skills/ Concepts demostrated: 
-The following powerbi featuees were incoporated 
+The following powerbi features were incoporated 
 -Bookmarking,
 - Dax functions
 - Quick measures 
@@ -90,7 +90,7 @@ matches, lost 2, and also had a draw.
 
 In 2014, they played 4 games, won 1, lost 2, and also had a draw. 
 
-In 2018, they played 3 games. Won none, loss 2 and 2 draw. 
+In 2018, they played 3 games. Won none, loss 2 and 1 draw. 
 
 In 2006, Nigeria did not participate in the FIFA world cup.
 
@@ -106,10 +106,6 @@ that are; underperformed teams were Costa Rica, Serbia & Montenegro, and Togo.
 In 2010, Netherland won the FIFA world cup. In all the 7 games played, they won 6 and lost 1 game 
 with a total of 18 points. They scored 12 goals. Algeria, North Korea, and Cameroon had the most 
 loss matches.
-
-In 2010, Netherland won the FIFA world cup. In all the 7 games played, they won 6 and lost 1 game 
-with a total of 18 points. They scored 12 goals. Algeria, North Korea, and Cameroon had the most 
-loss matches. 
 
 In 2014, Germany won the FIFA world cup for the second time after 2006. Out of the 7 games 
 played, they won 6 and also had a draw with a total of 19 points. They scored 18 goals, higher than 
